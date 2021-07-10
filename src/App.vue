@@ -3,7 +3,7 @@
     <div class="projects">
       <newProject 
         title="Diablo 3 Profile Viewer"
-        img="/img/diablo3.f637d8b9.png"  
+        img="../assets/img/diablo3.png"  
         desc="View any Diablo 3 Profile with the region and Battle Tag with this web app created with Vue and Stylus. By default, you can use SuperRambo#2613 in EU" 
         github_link="https://github.com/David-H-Afonso/diablo-3-profile-viewer" 
         link="https://diablo-3-profile-viewer.netlify.app/#/" />
