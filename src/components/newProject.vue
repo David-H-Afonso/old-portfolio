@@ -5,7 +5,7 @@
     <p>{{desc}}</p>
     <div class="links">
        <a target="_blank" :href="github_link">GitHub Link</a>
-       <a target="_blank" :href="link">Deploy Link</a>
+       <a target="_blank" :href="link" v-if="link">Deploy Link</a>
     </div>
   </div>
 </template>
