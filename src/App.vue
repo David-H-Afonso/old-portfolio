@@ -73,8 +73,8 @@
       <!-- Portfolio -->
       <newProject
         title="Portfolio"
-        img=""
-        desc="WIP"
+        img="https://repository-images.githubusercontent.com/384706007/38e7ff92-bc00-4533-8300-cf7c93b896e0"
+        desc="My portfolio with all my projects to show in a more visual way. Inside you have an about me section, contact section and project section with github links and deploy links"
         github_link="https://github.com/David-H-Afonso/portfolio"
         link="https://portfolio-david-h-afonso.netlify.app/"
       />
