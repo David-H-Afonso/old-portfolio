@@ -27,10 +27,6 @@ export default {
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-    *{
-        font-family: 'Montserrat', sans-serif;
-    }
     .project{
         display: flex;
         align-items: center;
@@ -40,8 +36,8 @@ export default {
         width: 300px;
         height: 400px;
         overflow-x: hidden;
-        background-color: #76C893;
-        border: 1px solid #184E77;
+        background-color: #F1F1F1;
+        border: 1px solid #3466AA;
         border-radius: 35px;
     }
     .links{
@@ -61,8 +57,10 @@ export default {
     }
     p{
         text-align: center;
-        color: #1A759F;
+        color: #3466AA;
         font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 15px;
     }
     a{
        display: block;
@@ -70,11 +68,11 @@ export default {
        padding: 7px;
        margin: 5px;
        margin-top: -2px;
-       border: 1px solid #184E77;
+       border: 1px solid #114084;
        text-decoration: none;
-       color: whitesmoke;
+       color: #F1F1F1;
        line-height: 20px;
-       background-color: #1E6091;
+       background-color: #114084;
        border-radius: 35px; 
     }
     @media (min-width: 1024px) {
