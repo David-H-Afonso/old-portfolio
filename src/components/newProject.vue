@@ -53,12 +53,12 @@ export default {
         margin-bottom: -10px;
         text-align: center;
         color: #184E77;
-        font-size: 24px;
+        font-size: 20px;
     }
     p{
         text-align: center;
         color: #3466AA;
-        font-size: 16px;
+        font-size: 14px;
         margin-top: 10px;
         margin-bottom: 15px;
     }
