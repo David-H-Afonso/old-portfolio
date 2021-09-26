@@ -78,6 +78,14 @@
         github_link="https://github.com/David-H-Afonso/portfolio"
         link="https://portfolio-david-h-afonso.netlify.app/"
       />
+       <!-- React add to cart -->
+      <newProject
+        title="React Add To Cart"
+        img="https://repository-images.githubusercontent.com/410687291/56ef53d4-21d3-4985-ab97-bd23d5a6f990"
+        desc="React add to cart project WIP"
+        github_link="https://github.com/David-H-Afonso/react-add-to-cart"
+        link="https://react-add-to-cart.netlify.app/"
+      />
     </div>
     <center><h2 class="title">Contact me</h2></center>
     <div id="contactme">
