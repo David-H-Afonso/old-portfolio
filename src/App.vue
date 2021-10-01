@@ -7,7 +7,7 @@
     </header>
     <div id="presentation">
       <img
-        src="https://media-exp1.licdn.com/dms/image/C5603AQFBTMcsGp2Edg/profile-displayphoto-shrink_400_400/0/1624119779928?e=1632355200&v=beta&t=wF5xGXFmeXdcHFITFu65S8op52Mn3qhK0fYBFoJ_ZVU"
+        src="./assets/profile-pic.png"
         alt="david hormiga afonso picture"
       />
       <h1>David Hormiga Afonso</h1>
@@ -78,13 +78,21 @@
         github_link="https://github.com/David-H-Afonso/portfolio"
         link="https://portfolio-david-h-afonso.netlify.app/"
       />
-       <!-- React add to cart -->
+       <!-- React shopping cart -->
       <newProject
-        title="React Add To Cart"
+        title="Shopping Cart - React ⚠Work In Progress🚧"
         img="https://repository-images.githubusercontent.com/410687291/56ef53d4-21d3-4985-ab97-bd23d5a6f990"
         desc="React add to cart project WIP"
         github_link="https://github.com/David-H-Afonso/react-add-to-cart"
-        link="https://react-add-to-cart.netlify.app/"
+        link="https://shopping-cart-react-dha.netlify.app/"
+      />
+       <!-- React user manager -->
+      <newProject
+        title="User Manager - React ⚠Work In Progress🚧"
+        img="https://repository-images.githubusercontent.com/412541187/8bd9cafe-434e-4d5f-a0b9-066e82b28ef9"
+        desc="React user manager WIP"
+        github_link="https://github.com/David-H-Afonso/user-manager"
+        link="https://user-manager-react-dha.netlify.app/"
       />
     </div>
     <center><h2 class="title">Contact me</h2></center>
