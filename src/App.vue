@@ -94,6 +94,14 @@
         github_link="https://github.com/David-H-Afonso/user-manager"
         link="https://user-manager-react-dha.netlify.app/"
       />
+      <!-- React image searcher -->
+      <newProject
+        title="Image searcher - React ⚠Work In Progress🚧"
+        img="https://repository-images.githubusercontent.com/414614250/5bfa62e2-2859-4f48-98c6-1d52c64c38ac"
+        desc="React image searcher WIP"
+        github_link="https://github.com/David-H-Afonso/image-searcher"
+        link="https://image-searcher-react-dha.netlify.app/"
+      />
     </div>
     <center><h2 class="title">Contact me</h2></center>
     <div id="contactme">
