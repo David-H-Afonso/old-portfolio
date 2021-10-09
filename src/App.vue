@@ -102,6 +102,14 @@
         github_link="https://github.com/David-H-Afonso/image-searcher"
         link="https://image-searcher-react-dha.netlify.app/"
       />
+      <!-- React interes compuesto -->
+      <newProject
+        title="Calculadora de interés compuesto - React ⚠Work In Progress🚧"
+        img="https://repository-images.githubusercontent.com/415404902/e6378d14-a3a4-42f3-a3d9-f070dd732eb3"
+        desc="Calculadora de interés compuesto en React WIP"
+        github_link="https://github.com/David-H-Afonso/interes-compuesto"
+        link="https://interes-compuesto-react-dha.netlify.app/"
+      />
     </div>
     <center><h2 class="title">Contact me</h2></center>
     <div id="contactme">
