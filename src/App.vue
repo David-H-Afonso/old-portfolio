@@ -80,7 +80,7 @@
       />
        <!-- React shopping cart -->
       <newProject
-        title="Shopping Cart - React ⚠Work In Progress🚧"
+        title="Shopping Cart - React 🚧Work In Progress🚧"
         img="https://repository-images.githubusercontent.com/410687291/56ef53d4-21d3-4985-ab97-bd23d5a6f990"
         desc="React add to cart project WIP"
         github_link="https://github.com/David-H-Afonso/react-add-to-cart"
@@ -88,7 +88,7 @@
       />
        <!-- React user manager -->
       <newProject
-        title="User Manager - React ⚠Work In Progress🚧"
+        title="User Manager - React 🚧Work In Progress🚧"
         img="https://repository-images.githubusercontent.com/412541187/8bd9cafe-434e-4d5f-a0b9-066e82b28ef9"
         desc="React user manager WIP"
         github_link="https://github.com/David-H-Afonso/user-manager"
@@ -96,7 +96,7 @@
       />
       <!-- React image searcher -->
       <newProject
-        title="Image searcher - React ⚠Work In Progress🚧"
+        title="Image searcher - React 🚧Work In Progress🚧"
         img="https://repository-images.githubusercontent.com/414614250/5bfa62e2-2859-4f48-98c6-1d52c64c38ac"
         desc="React image searcher WIP"
         github_link="https://github.com/David-H-Afonso/image-searcher"
@@ -104,7 +104,7 @@
       />
       <!-- React interes compuesto -->
       <newProject
-        title="Calculadora de interés compuesto - React ⚠Work In Progress🚧"
+        title="Calculadora de interés compuesto - React 🚧Work In Progress🚧"
         img="https://repository-images.githubusercontent.com/415404902/e6378d14-a3a4-42f3-a3d9-f070dd732eb3"
         desc="Calculadora de interés compuesto en React WIP"
         github_link="https://github.com/David-H-Afonso/interes-compuesto"
